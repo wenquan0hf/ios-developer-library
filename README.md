@@ -13,3 +13,5 @@
 ## 学习前提
 
 如果您具有计算机编程的基础知识，特别是面向对象编程的知识，则将对您的理解和掌握大有裨益。
+
+鸣谢：[iOS Developer Library](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOSCh/index.html#//apple_ref/doc/uid/TP40012668-CH2-SW1)
